@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\bai kt2\\QLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\quanlysv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\quanlysv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|e:\\c#\\bai kt2\\qlsv\\qlsv\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\quanlysv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|E:\\c#\\bai kt2\\QLSV\\qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826170B7-E7DC-4168-BE20-4105CE52730A}|QLSV\\QLSV.csproj|solutionrelative:qlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLySV.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\QuanLySV.cs",
+              "RelativeDocumentMoniker": "QLSV\\QuanLySV.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\QuanLySV.cs",
+              "RelativeToolTip": "QLSV\\QuanLySV.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAwGkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:19:31.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\DangKy.cs",
+              "RelativeDocumentMoniker": "QLSV\\DangKy.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\DangKy.cs [Design]",
+              "RelativeToolTip": "QLSV\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:55:47.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLySV.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\QuanLySV.cs",
+              "RelativeDocumentMoniker": "QLSV\\QuanLySV.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\QuanLySV.cs [Design]",
+              "RelativeToolTip": "QLSV\\QuanLySV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T13:58:08.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Login.cs",
+              "RelativeDocumentMoniker": "QLSV\\Login.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Login.cs",
+              "RelativeToolTip": "QLSV\\Login.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:39:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLySV.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\QuanLySV.Designer.cs",
+              "RelativeDocumentMoniker": "QLSV\\QuanLySV.Designer.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\QuanLySV.Designer.cs",
+              "RelativeToolTip": "QLSV\\QuanLySV.Designer.cs",
+              "ViewState": "AQIAANMBAAAAAAAAAAASwIwBAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:50:25.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKy.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\DangKy.Designer.cs",
+              "RelativeDocumentMoniker": "QLSV\\DangKy.Designer.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\DangKy.Designer.cs",
+              "RelativeToolTip": "QLSV\\DangKy.Designer.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAASwIgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:51:00.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\DangKy.cs",
+              "RelativeDocumentMoniker": "QLSV\\DangKy.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\DangKy.cs",
+              "RelativeToolTip": "QLSV\\DangKy.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:51:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Login.cs",
+              "RelativeDocumentMoniker": "QLSV\\Login.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Login.cs [Design]",
+              "RelativeToolTip": "QLSV\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:40:05.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "QLSV\\Login.Designer.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Login.Designer.cs",
+              "RelativeToolTip": "QLSV\\Login.Designer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T16:39:53.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Program.cs",
+              "RelativeDocumentMoniker": "QLSV\\Program.cs",
+              "ToolTip": "E:\\c#\\bai kt2\\QLSV\\QLSV\\Program.cs",
+              "RelativeToolTip": "QLSV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:32:04.502Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1118,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
